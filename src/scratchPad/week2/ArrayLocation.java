@@ -1,7 +1,7 @@
 /**
  * 
  */
-package scratchPad;
+package scratchPad.week2;
 
 /**
  * @author Aviral Garg

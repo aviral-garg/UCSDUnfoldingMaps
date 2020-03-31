@@ -1,7 +1,7 @@
 /**
  * Simple Location storing Latitude and Longitude of a location
  */
-package scratchPad;
+package scratchPad.week2;
 
 /**
  * @author Aviral Garg
